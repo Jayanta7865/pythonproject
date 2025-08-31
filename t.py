@@ -17,6 +17,7 @@ print("🎉 Welcome to KBC (Kaun Banega Crorepati)!\n")
 for i in range(len(questions)):
     question = questions[i]
     print(f"🎯 Question for Rs. {levels[i]}:\n")
+    print(f"{i+1}.{question[0]}")
     print(f"a. {question[1]}")
     print(f"b. {question[2]}")
     print(f"c. {question[3]}")
