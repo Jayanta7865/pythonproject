@@ -245,7 +245,10 @@ def main():
     users = load_users()
     issued = load_issued()
 
-    print("===== Library Management System =====")
+    a="....Library Management System...."
+    print(f"\n{a.center(120)}")
+    b="-"*140
+    print(b)
     while True:
         role = input("\nAre you 'admin' or 'user'? (type exit to quit): ").lower()
 
@@ -253,7 +256,7 @@ def main():
             uname = input("Admin Username: ")
             pwd = input("Admin Password: ")
             if uname == "admin" and pwd == "admin123":
-                admin_panel(books, users)  # ✅ FIXED
+                admin_panel(books, users)  
             else:
                 print("❌ Wrong admin credentials!")
 

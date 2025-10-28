@@ -1,1 +1,5 @@
 01|Python|jayanta|20
+02|Computer Fandamental|P.K.Sinha|100
+03|Programming With Java|E.Bala Guru Swamy|39
+04|C|E.Bala Guru Swamy|19
+05|DBMs|McGraw-Hill|10

@@ -1,0 +1,7 @@
+I am a passionate Fresher Python Developer with a strong foundation in programming concepts,
+ data structures, and object-oriented design. 
+ I have hands-on experience in developing small-scale projects using Python, 
+ along with frameworks like Flask and Django.
+  I am familiar with database systems such as MySQL and SQLite, and I can integrate backend logic with frontend interfaces effectively. 
+  I also have good knowledge of version control systems like Git and basic understanding of APIs, RESTful services, and web development.
+   I am a quick learner, team-oriented, and eager to contribute to real-world projects while continuously improving my coding and problem-solving skills.
