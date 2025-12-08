@@ -1,0 +1,58 @@
+{
+  "43447665962": {
+    "name": "jayanta samanta",
+    "age": "21",
+    "dob": "17/7/2003",
+    "aadhar": "56498464684",
+    "pan": "5+659848498",
+    "account_no": "43447665962",
+    "atm_card": "yes",
+    "pin": "2543",
+    "balance": 496000.0,
+    "txn_history": [
+      {
+        "time": "2025-12-07 21:23:09",
+        "type": "DEPOSIT",
+        "amount": 500000.0,
+        "balance": 500000.0
+      },
+      {
+        "time": "2025-12-07 21:24:34",
+        "type": "WITHDRAW",
+        "amount": 4000.0,
+        "balance": 496000.0
+      }
+    ]
+  },
+  "21576446442": {
+    "name": "jayanta samanta",
+    "age": "20",
+    "dob": "78650",
+    "aadhar": "844645446548",
+    "pan": "589548",
+    "account_no": "21576446442",
+    "atm_card": "yes",
+    "pin": "1234",
+    "balance": 949440.0,
+    "txn_history": [
+      {
+        "time": "2025-12-07 21:28:52",
+        "type": "DEPOSIT",
+        "amount": 1000000.0,
+        "balance": 1000000.0
+      },
+      {
+        "time": "2025-12-07 21:29:23",
+        "type": "WITHDRAW",
+        "amount": 50000.0,
+        "balance": 950000.0
+      },
+      {
+        "time": "2025-12-07 21:29:44",
+        "type": "WITHDRAW",
+        "amount": 560.0,
+        "balance": 949440.0
+      }
+    ]
+  }
+}

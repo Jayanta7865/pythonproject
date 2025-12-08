@@ -255,7 +255,7 @@ def main():
         if role == "admin":
             uname = input("Admin Username: ")
             pwd = input("Admin Password: ")
-            if uname == "admin" and pwd == "admin123":
+            if uname == "admin" and pwd == "password":
                 admin_panel(books, users)  
             else:
                 print("❌ Wrong admin credentials!")
